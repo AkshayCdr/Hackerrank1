@@ -22,7 +22,7 @@ function anagram(s) {
       count++;
     }
   }
-  console.log(frquency1);
+  //   console.log(frquency1);
 
   console.log(count);
 }
